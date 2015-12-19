@@ -137,7 +137,7 @@ A curated list of awesome WebRTC modules and resources. Inspired by [awesome-pyt
 
 * [PeerJS](http://peerjs.com/): data channel abstraction
 * [Sharefest](https://github.com/peer5/sharefest): share files via data channels
-* [Peer5 Downloader](http://peer5.com/downloader/land.html): P2P file download
+* [Peer5 Downloader](https://www.peer5.com/downloader): P2P file download
 * [ShareDrop](https://github.com/cowbell/sharedrop): <https://www.sharedrop.io/> file sharing between devices on the same network
 
 ### VoIP/PSTN
@@ -173,8 +173,8 @@ A curated list of awesome WebRTC modules and resources. Inspired by [awesome-pyt
 * Xylophone: <http://soundstep.com/blog/experiments/jsdetection/>
 * Photobooth with filters: <http://webcamtoy.com/>
 * SVG filters: <https://rawgithub.com/SenorBlanco/moggy/master/filterbooth.html>
-* Face masking with WebGL: <http://auduno.github.io/clmtrackr/face_mask.html>
-* Face deformation with WebGL: <http://auduno.github.io/clmtrackr/face_mask.html>
+* Face masking with WebGL: <https://auduno.github.io/clmtrackr/face_mask.html>
+* Face deformation with WebGL: <https://auduno.github.io/clmtrackr/examples/facedeform.html>
 * Screen capture: <http://simpl.info/mediacapture/>
 
 ### Web Audio integration
