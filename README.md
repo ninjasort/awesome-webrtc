@@ -45,7 +45,7 @@ A curated list of awesome WebRTC modules and resources. Inspired by [awesome-pyt
 ## Overview
 
 * [samples](https://github.com/webrtc/samples) - WebRTC code samples.
-* [Live demos](http://webrtc.github.io/samples) - WebRTC Live demos.
+* [Live demos](https://webrtc.github.io/samples/) - WebRTC Live demos.
 * [2013 Google I/O presentation](https://www.youtube.com/watch?v=p2HzZkd2A40) - If you've never worked with WebRTC, we recommend you start with it. [slides](http://io13webrtc.appspot.com/)
 * <http://webrtc.org/>
 
@@ -64,7 +64,7 @@ A curated list of awesome WebRTC modules and resources. Inspired by [awesome-pyt
 
 ## Tutorials
 
-* Getting Started With WebRTC: <http://html5rocks.com/en/tutorials/webrtc/basics/>
+* Getting Started With WebRTC: <http://www.html5rocks.com/en/tutorials/webrtc/basics/>
 * [WebRTC in the real world: STUN, TURN and signaling](http://www.html5rocks.com/en/tutorials/webrtc/infrastructure/)
 * [A practical guide to WebRTC](http://www.slideshare.net/vline/a-practical): presentation slides from vLine
 * Capturing audio and video in HTML5: <http://www.html5rocks.com/en/tutorials/getusermedia/intro/>
@@ -169,7 +169,7 @@ A curated list of awesome WebRTC modules and resources. Inspired by [awesome-pyt
 ### `getUserMedia`
 
 * ASCII: <http://idevelop.github.com/ascii-camera>
-* Movement tracking slide page controller: <http://lli.web.fh-koeln.de/mocowe>
+* Movement tracking slide page controller: <http://www.slideshare.net/tsahil/kranky-geek-webrtc-show-webrtc-in-the-real-world>
 * Xylophone: <http://soundstep.com/blog/experiments/jsdetection/>
 * Photobooth with filters: <http://webcamtoy.com/>
 * SVG filters: <https://rawgithub.com/SenorBlanco/moggy/master/filterbooth.html>
@@ -196,17 +196,16 @@ A curated list of awesome WebRTC modules and resources. Inspired by [awesome-pyt
 * <http://talky.io/>
 * <http://tawk.com/>
 * <http://hu.tt/>
-* [Twelephone](http://twelephone.com/): chat with Twitter contacts
+* [Twelephone](http://blog.twelephone.com/): chat with Twitter contacts
 * <http://browsermeeting.com/>
 * <http://codassium.com/>: job interview tool with live coding
 * <http://appear.in/>
-* <http://vmux.co/>
+* <https://github.com/malditogeek/vmux>
 * <http://vidtok.com/>
 * <http://www.voxeet.com/>: high quality audio
 
 ### Games
 
-* The first WebRTC game: [Puzzlible](http://www.protothon.com/blog/2012/mar/27/red-square-puzzle-group/)
 * [Who Am I?](http://www.designweek.co.uk/news/magneticnorth-creates-who-am-i-game-for-google/3034813.article): second ever WebRTC game, no longer online
 * WebRTC + Web Audio + WebGL: [Cube Slam](http://cubeslam.com/)
 * Face tracking: <http://www.shinydemos.com/facekat/>
@@ -226,9 +225,9 @@ A curated list of awesome WebRTC modules and resources. Inspired by [awesome-pyt
 
 * [Sharefest](http://sharefest.me/): share file by uploading and sharing link.
 * <http://dropple.me/>: get a file by sending a link to a share page
-* [peerCDN](https://peercdn.com/): P2P CDN
+* [peerCDN](https://github.com/PeerCDN): P2P CDN
 * [WebTorrent](http://webtorrent.io/): BitTorrent over WebRTC
-* <http://cdn.peer5.com/pilots/kaltura/index.html>: P2P video
+* <https://www.peer5.com/video>: P2P video
 * <http://webp2p.org/>
 * <http://peer5.com/downloader/land.html>: add P2P file download to your web page
 
@@ -245,7 +244,6 @@ A curated list of awesome WebRTC modules and resources. Inspired by [awesome-pyt
 
 ### Demos
 
-* <http://webaudiodemos.appspot.com/>
 * <http://simpl.info/webaudio>
 * <http://googlechrome.github.io/web-audio-samples/>
 
