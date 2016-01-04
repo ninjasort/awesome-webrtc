@@ -45,7 +45,7 @@ A curated list of awesome WebRTC modules and resources. Inspired by [awesome-pyt
 * [samples](https://github.com/webrtc/samples) - WebRTC code samples.
 * [Live demos](https://webrtc.github.io/samples/) - WebRTC Live demos.
 * [2013 Google I/O presentation](https://www.youtube.com/watch?v=p2HzZkd2A40) - If you've never worked with WebRTC, we recommend you start with it. [slides](http://io13webrtc.appspot.com/)
-* <http://webrtc.org/>
+* [WebRTC official site](http://webrtc.org/)
 
 ## Demos and samples
 
