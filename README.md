@@ -62,14 +62,14 @@ A curated list of awesome WebRTC modules and resources. Inspired by [awesome-pyt
 
 ## Tutorials
 
-* Getting Started With WebRTC: <http://www.html5rocks.com/en/tutorials/webrtc/basics/>
-* [WebRTC in the real world: STUN, TURN and signaling](http://www.html5rocks.com/en/tutorials/webrtc/infrastructure/)
-* [A practical guide to WebRTC](http://www.slideshare.net/vline/a-practical): presentation slides from vLine
-* Capturing audio and video in HTML5: <http://www.html5rocks.com/en/tutorials/getusermedia/intro/>
-* Excellent series of articles by Louis Stowasser and Robert Nyman: <https://hacks.mozilla.org/category/webrtc/>
-* Justin Uberti at Google I/O 2012: <https://www.youtube.com/watch?v=E8C8ouiXHHk>
-* Cullen Jennings video: HTML5 WebRTC: <http://vimeo.com/47682405>
-* [WebRTC Fundamentals](http://bit.ly/learnwebrtc): online course.
+* [ ] Getting Started With WebRTC: <http://www.html5rocks.com/en/tutorials/webrtc/basics/>
+* [ ] [WebRTC in the real world: STUN, TURN and signaling](http://www.html5rocks.com/en/tutorials/webrtc/infrastructure/)
+* [ ] [A practical guide to WebRTC](http://www.slideshare.net/vline/a-practical): presentation slides from vLine
+* [ ] Capturing audio and video in HTML5: <http://www.html5rocks.com/en/tutorials/getusermedia/intro/>
+* [ ] Excellent series of articles by Louis Stowasser and Robert Nyman: <https://hacks.mozilla.org/category/webrtc/>
+* [ ] Justin Uberti at Google I/O 2012: <https://www.youtube.com/watch?v=E8C8ouiXHHk>
+* [ ] Cullen Jennings video: HTML5 WebRTC: <http://vimeo.com/47682405>
+* [ ] [WebRTC Fundamentals](http://bit.ly/learnwebrtc): online course.
 
 ## Codelab
 
@@ -78,9 +78,9 @@ A curated list of awesome WebRTC modules and resources. Inspired by [awesome-pyt
 
 ## Books
 
-* <http://webrtcbook.com/>
-* [Getting Started with WebRTC](http://www.packtpub.com/getting-started-with-webrtc/book)
-* [Real-Time Communication with WebRTC](http://bloggeek.me/book-webrtc-salvatore-simon/)
+* [ ] <http://webrtcbook.com/>
+* [ ] [Getting Started with WebRTC](http://www.packtpub.com/getting-started-with-webrtc/book)
+* [ ] [Real-Time Communication with WebRTC](http://bloggeek.me/book-webrtc-salvatore-simon/)
 
 ## Developer tools and resources
 
