@@ -145,6 +145,7 @@ A curated list of awesome WebRTC modules and resources. Inspired by [awesome-pyt
 * Open source JavaScript SIP library: [JsSIP](http://jssip.net/)
 * Open source SIP proxy with WebSocket and SRTP support: [Kamailio](http://www.kamailio.org/w/)
 * [FreeSWITCH](http://www.freeswitch.org/)
+* [Sayna](https://github.com/SaynaAI/sayna) - Real-time voice infrastructure for AI agents with SIP integration, low-latency WebSockets, and multi-provider STT/TTS support.
 
 ### Face/head tracking
 
