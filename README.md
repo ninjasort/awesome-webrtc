@@ -209,6 +209,8 @@ A curated list of awesome WebRTC modules and resources. Inspired by [awesome-pyt
 * Face tracking: <http://www.shinydemos.com/facekat/>
 * RTCDataChannel + WebGL: [ ananaBread](https://hacks.mozilla.org/2013/03/webrtc-data-channels-for-great-multiplayer/)
 
+* [Parlour](https://github.com/braedonsaunders/parlour): Deterministic TypeScript card-game engine with cozy browser table and P2P WebRTC rooms (no backend). Play at https://parlour.cards
+
 ### Telehealth
 
 * [Regional Cystic Fibrosis Program](http://www.pulseitmagazine.com.au/index.php?option=com_content&view=article&id=1382:cystic-fibrosis-project-to-trial-webrtc-home-monitoring-and-shared-ehr&catid=16:australian-ehealth&Itemid=327)
