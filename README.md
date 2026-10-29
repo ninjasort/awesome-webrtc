@@ -208,6 +208,7 @@ A curated list of awesome WebRTC modules and resources. Inspired by [awesome-pyt
 * WebRTC + Web Audio + WebGL: [Cube Slam](http://cubeslam.com/)
 * Face tracking: <http://www.shinydemos.com/facekat/>
 * RTCDataChannel + WebGL: [ ananaBread](https://hacks.mozilla.org/2013/03/webrtc-data-channels-for-great-multiplayer/)
+* WebRTC Voice + HTML5 Canvas: [Trick or Take](https://trickortake.com/) - 60-second real-time multiplayer Halloween candy heist with WebRTC voice rooms ([Source](https://github.com/AgoraIO-Community/trick-or-take))
 
 ### Telehealth
 
